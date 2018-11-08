@@ -26,9 +26,9 @@ Here I list the task I am doing step by step
 Spring Core
 Done:
 -Inversion of Control using ApplicationContext.xml
--Dependency Injecting using Constructor
--Dependency Injecting using setter
+-Constructor-based dependency injection
+-Setter-based dependency injection
 -Injecting Literal values
 -Injecting Values From a Properties File(sport.properties)
+-Injecting array of String From Properties File
 In progress:
--Practice Activity #2 - Dependency Injection with XML Configuration Section 5, Lecture 44
