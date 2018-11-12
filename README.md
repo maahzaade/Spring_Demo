@@ -7,7 +7,8 @@ Call me knowledgeable, firm, uncompromising, and soaring.
 
 Project Requirement:
 I will add this part later
-
+jdk1.8.0_181
+tomact 8.5
 
 Description:
 
@@ -25,10 +26,13 @@ Here I list the task I am doing step by step
 
 Spring Core
 Done:
+-Config Log Level to be printed by Tomcat
 -Inversion of Control using ApplicationContext.xml
 -Constructor-based dependency injection
 -Setter-based dependency injection
 -Injecting Literal values
 -Injecting Values From a Properties File(sport.properties)
 -Injecting array of String From Properties File
+-Bean Scope(Singleton vs Prototype)
 In progress:
+Bean Lifecycle Methods
