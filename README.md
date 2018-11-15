@@ -35,5 +35,6 @@ Done:
 -Injecting array of String From Properties File
 -Bean Scope(Singleton vs Prototype)
 Bean Lifecycle: init and destroy methods
+Practice Activity #3 - Bean Scopes with XML Configuration (I did not add it to github to prevent chaos)
 In progress:
-Practice Activity #3 - Bean Scopes with XML Configuration
+-Inversion of Control using Java Annotation
