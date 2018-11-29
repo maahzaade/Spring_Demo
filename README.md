@@ -35,6 +35,6 @@ Done:
 -Injecting array of String From Properties File
 -Bean Scope(Singleton vs Prototype)
 -Bean Lifecycle: init and destroy methods
-Practice Activity #3 - Bean Scopes with XML Configuration (I did not add it to github to prevent chaos)
+-Practice Activity #3 : Bean Scopes with XML Configuration (I did not add it to github to prevent chaos)
+-Inversion of Control using Java Annotation on https://github.com/maahzaade/Spring-Demo-One
 In progress:
--Inversion of Control using Java Annotation
