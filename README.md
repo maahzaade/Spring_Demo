@@ -39,8 +39,8 @@ Done:
 -Bean Lifecycle: init and destroy methods
 -Practice Activity #3 : Bean Scopes with XML Configuration (I did not add it to github to prevent chaos)
 -Inversion of Control using Java Annotation on https://github.com/maahzaade/Spring-Demo-One
-In progress:
 -Spring Configuration with Java Annotations- Dependency Injection (constructor injection)
+In progress:
 -Spring Configuration with Java Annotations- Dependency Injection (setter injection)
 -Spring Configuration with Java Annotations- Dependency Injection (field injection)
 -Spring Configuration with Java Annotations- Dependency Injection (make use of Qualifier)
