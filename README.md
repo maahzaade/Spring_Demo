@@ -41,8 +41,8 @@ Done:
 -Inversion of Control using Java Annotation on https://github.com/maahzaade/Spring-Demo-One
 -Spring Configuration with Java Annotations- Dependency Injection (constructor injection)
 -Spring Configuration with Java Annotations- Dependency Injection (setter injection)
-In progress:
 -Spring Configuration with Java Annotations- Dependency Injection (method injection)
+In progress:
 -Spring Configuration with Java Annotations- Dependency Injection (field injection)
 -Spring Configuration with Java Annotations- Dependency Injection (make use of Qualifier)
 
