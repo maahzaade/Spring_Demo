@@ -42,7 +42,7 @@ Done:
 -Spring Configuration with Java Annotations- Dependency Injection (constructor injection)
 -Spring Configuration with Java Annotations- Dependency Injection (setter injection)
 -Spring Configuration with Java Annotations- Dependency Injection (method injection)
-In progress:
 -Spring Configuration with Java Annotations- Dependency Injection (field injection)
 -Spring Configuration with Java Annotations- Dependency Injection (make use of Qualifier)
-
+In progress:
+-Practice Activity #5 - Dependency Injection with Annotations
