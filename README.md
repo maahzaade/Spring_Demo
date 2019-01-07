@@ -46,7 +46,7 @@ Done:
 -Spring Configuration with Java Annotations- Dependency Injection (make use of Qualifier)
 -Practice Activity #5 - Spring Configuration with Java Annotations: Injecting array of String From Properties File with Annotations
 -Scope Annotation
-Bean Lifecycle Method Annotations
+-Bean Lifecycle Method Annotations
 In progress:
--Practice Activity #6 - Bean Scopes with Annotations
+-Spring Configuration With Java Code
  
